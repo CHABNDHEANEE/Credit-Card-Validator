@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/redit card validator.iml" filepath="$PROJECT_DIR$/redit card validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/credit card validator.iml" filepath="$PROJECT_DIR$/credit card validator.iml" />
     </modules>
   </component>
 </project>
